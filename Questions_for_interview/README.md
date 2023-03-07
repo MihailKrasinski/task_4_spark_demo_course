@@ -35,3 +35,7 @@ shuffle всегда). Логику того как под капотом это
 23) Нюансы при чтении JSON
 24) Нюансы при чтении CSV
 25) Broadcast variables
+
+## Answers
+
+https://github.com/egorkapot/spark_innowise/tree/main/Questions_for_interview
